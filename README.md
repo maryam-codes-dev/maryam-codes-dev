@@ -3,7 +3,7 @@
 ## about me  
 - I code and design whatever comes to my mind.
 - self-taught in HTML, CSS, JS, and basic C++ out of curiosity & ambition 💻✨  
-- dabbling in AI, web dev, and all UI/UX design.
+- I am currently learning AI, Web-dev and UI/UX design.
 
 # hobbies  
 - watching documentaries & movies (basically a film buff) 🎞️  
