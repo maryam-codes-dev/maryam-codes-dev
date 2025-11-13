@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+## about me  
+- I code and design whatever comes to my mind.
+- self-taught in HTML, CSS, JS, and basic C++ out of curiosity & ambition 💻✨  
+- dabbling in AI, web dev, and all UI/UX design.
+
+# hobbies  
+- watching documentaries & movies (basically a film buff) 🎞️  
+- reading tons of books (mostly fiction and thrillers) 📚
+- coding, designing, and building new things.
 <!--
 **maryam-codes-dev/maryam-codes-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
